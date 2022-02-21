@@ -1,0 +1,108 @@
+body{
+  margin : 0;
+  text-align :center;
+  font-family: serif;
+  color: #40514E;
+}
+
+h1{
+  font-size:70px ;
+  margin-top: 50px;
+}
+
+
+h2{
+  font-size: 2.2rem;
+  padding-bottom: 10px;
+  color: #66BFBF;
+}
+
+
+
+h3{
+  font-size:1.6rem;
+  color: #66BFBF;
+}
+
+p{
+  line-height: 1.6;
+  font-size: 1.5rem;
+}
+hr{
+  border-style : none ;
+  border-top-style: dotted ;
+  border-color: #EAF6F6 ;
+  border-width : 7px ;
+  width :7%;
+  margin: 50px auto 50px auto ;
+}
+
+
+
+
+
+.middle-container{
+  margin-top: 30px;
+}
+.first-p{
+  font-size: 2.2rem;
+}
+
+.top-container{
+  position: relative;
+  padding-top:100px;
+  background-color:  #CAF0F8 ;
+  color: black;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 240px;
+  top: 40;
+
+}
+.bottom-cloud {
+  position:absolute;
+  left:250px;
+  bottom:300px;
+}
+
+.skills-upper-image {
+  max-width: 250px;
+  height: auto;
+  margin-right: 30px;
+  margin-bottom: 100px;
+  float: left;
+}
+.skills-lower-image {
+  max-width: 200px;
+  height: auto;
+  margin-top: 40px;
+  margin-left: 30px;
+  float: right ;
+
+}
+.skills-h2{
+  margin-bottom: 50px
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto  ;
+  line-height: 1.6;
+  text-align: left;
+}
+.contact-icons {
+  max-width: 50px;
+  height: auto;
+}
+.contact-icons:hover {
+  background-color: white;
+}
+.bottom-container{
+  padding-top: 20px;
+  margin-top: 50px;
+  background-color: #CAF0F8;
+}
+.bottom-p{
+  color: black;
+}
